@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhafatim
-- 👀 I’m interested in Data Analyst
+- 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Python and SQL
 
 <!---
